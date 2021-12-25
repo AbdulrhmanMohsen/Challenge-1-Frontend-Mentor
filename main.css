@@ -33,7 +33,7 @@ body {
     overflow: hidden;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 650px) {
     .card {
         height: auto;
         flex-direction: column-reverse;
@@ -47,7 +47,7 @@ body {
     padding: 50px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 650px) {
     .card-left {
         padding: 28px;
         text-align: center;
@@ -64,7 +64,7 @@ h3 {
     color: var(--Soft);
 }
 
-@media (max-width: 600px) {
+@media (max-width: 650px) {
     .card-left h1 {
         font-size: 22px;
     }
@@ -79,7 +79,7 @@ h3 {
     line-height: 23px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 650px) {
     .card-left p {
         text-align: center;
         font-size: 12px;
@@ -93,7 +93,7 @@ h3 {
     width: 100%;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 650px) {
     .card .con-com {
         flex-direction: column;
     }
@@ -105,7 +105,7 @@ h3 {
     text-align: center;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 650px) {
     .card .con-com .comp {
 
         margin: 20px auto 0px auto;
@@ -119,7 +119,7 @@ h3 {
     font-size: 13px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 650px) {
     .card .con-com .comp p {
         font-size: 10px;
     }
@@ -140,7 +140,7 @@ h3 {
     background: hsla(277, 64%, 61%, 0.562);
 }
 
-@media (max-width: 600px) {
+@media (max-width: 650px) {
     .card-right img {
         width: 100%;
     }
@@ -171,7 +171,7 @@ h3 {
     color: whitesmoke;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 650px) {
     .attribution {
         font-size: 11px;
     }
